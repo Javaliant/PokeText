@@ -1,0 +1,5 @@
+TODO:
+ ADD CSV constructors
+ Actual battle loop
+ ???
+ ???
